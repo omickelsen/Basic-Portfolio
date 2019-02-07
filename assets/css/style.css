@@ -1,0 +1,39 @@
+.MyName { 
+    background-color:  #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: #cccccc;
+}
+
+.aboutme {
+    color: #4aaaa5;
+
+}
+
+.menu {
+
+    float: right;
+
+}
+
+.body {
+    width: 960px;
+    text-align: center;
+    margin: 10%;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    border: darkcyan;
+}
+
+img {
+    float: left;
+    clear: left;
+    
+}
+
+footer: {
+    background-color: #666666;
+
+
+}
