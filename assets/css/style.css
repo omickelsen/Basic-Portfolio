@@ -110,7 +110,7 @@ footer {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
-    position: static;
+    position: sticky;
   }
   
   h3, h2 {
@@ -219,23 +219,6 @@ footer {
     background: #4aaaa5;
     border: 0 none;
   }
-
-
-
-/* MEDIA QUERIES */
-
-@media screen and (min-width: 768px) {
-    main, body, .nav, .bio, container
-     {
-        width: 100%;
-    }
-}
-
-@media screen and (min-width: 992px) {
-    main, body, .nav, .bio, container
-    {
-        width: 100%;
-    }
 }
 
 
